@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Pyrogram userbot for updating present users in group chats.
+
 <!--
 **dmitry-endo/dmitry-endo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
